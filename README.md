@@ -28,7 +28,7 @@ This is a **responsive personal portfolio website** built using only **HTML** an
 
 - **Name:** Aditya Jambhulkar  
 - **Education:** Diploma in Computer Engineering (MSBTE)  
-- **Internship:** Java Developer Intern at Code Infosystem Pvt Ltd, Chandrapur  
+- **Internship:** Java Full Stack Developer Intern at Code Infosystem Pvt Ltd, Chandrapur  
 - **Skills:** HTML, CSS, JavaScript, Tailwind CSS, Git/GitHub, Responsive Design
 
 ## 🧾 My Experience
