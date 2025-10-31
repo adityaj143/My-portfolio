@@ -14,22 +14,24 @@ This is a **responsive personal portfolio website** built using only **HTML** an
 - 📱 Mobile-friendly hamburger menu  
 - ✨ Scroll-triggered fade/slide animations  
 - 🧾 Resume download button  
-- 🔗 Social links (GitHub, LinkedIn, Email)
+- 🔗 Social links (GitHub, LinkedIn, Email)  
 
 ## 🚀 Technologies Used
 
-- **HTML5**
-- **Tailwind CSS**
-- **Font Awesome** for icons
-- **Formspree** for contact form handling
-- **JavaScript** for dark mode, mobile menu, and animations
+- **HTML5**  
+- **Tailwind CSS**  
+- **Font Awesome** for icons  
+- **Formspree** for contact form handling  
+- **JavaScript** for dark mode, mobile menu, and animations  
 
 ## 🧑‍💻 Developer Info
 
 - **Name:** Aditya Jambhulkar  
-- **Education:** Diploma in Computer Engineering (MSBTE)  
+- **Education:** Diploma in Computer Engineering (MSBTE) 
+  - **Duration:**  2023 – 2026 
 - **Internship:** Java Full Stack Developer Intern at Code Infosystem Pvt Ltd, Chandrapur  
-- **Skills:** HTML, CSS, JavaScript, Tailwind CSS, Git/GitHub, Responsive Design
+  - **Duration:** June 2025 – August 2025  
+- **Skills:** HTML, CSS, JavaScript, Tailwind CSS, Git/GitHub, Responsive Design  
 
 ## 🧾 My Experience
 
@@ -37,8 +39,8 @@ I built this personal portfolio as part of the Devtown Tailwind Bootcamp to shar
 
 ## 🔗 Live Preview & Source Code
 
-- 🔴 **Live Demo:** [Coming Soon](#)
-- 💻 **GitHub Repository:** [Coming Soon](#)
+- 🔴 **Live Demo:** [https://adityaj143.github.io/My-portfolio/](https://adityaj143.github.io/My-portfolio/)  
+- 💻 **GitHub Repository:** [https://github.com/adityaj143/My-portfolio](https://github.com/adityaj143/My-portfolio)  
 
 ## 📬 Contact Me
 
@@ -46,7 +48,7 @@ If you’d like to collaborate, feel free to reach out:
 
 - 📧 Email: [adityajambhulkar513@gmail.com](mailto:adityajambhulkar513@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/aditya-jambhulkar-3928a631a](https://www.linkedin.com/in/aditya-jambhulkar-3928a631a)  
-- 🐙 GitHub: [github.com/adityaj143](https://github.com/adityaj143)
+- 🐙 GitHub: [github.com/adityaj143](https://github.com/adityaj143)  
 
 ---
 
